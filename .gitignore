@@ -33,6 +33,9 @@ test_db*
 # Mac
 .DS_Store
 
+#build
+
+classes/
 
 # Local configuration
 **/user.conf
